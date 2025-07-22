@@ -1,11 +1,4 @@
----
-title: "🛠️ Ngedokering WordPress: Deploy Santuy Pakai Docker & Compose"
-description: "Tutorial ringan ala DevOps pemula buat nge-deploy WordPress bareng MariaDB dalam container. Gak ribet, tinggal jalanin aja!"
-date: 2025-07-22
-tags: ["Docker", "WordPress", "DevOps", "Containerization"]
----
-
-# 😺 WordPress-an Gak Pake Ribet: Cuma Butuh Docker & Sedikit Niat!
+# 😺 WordPress-an Gak Pake Ribet - Cuma Butuh Docker & Sedikit Niat!
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-339933?style=for-the-badge&logo=docker&logoColor=white)
@@ -57,7 +50,7 @@ Berikut senjata yang tak pakai buat ngejalanin proyek iki:
 
 1. **Clone repositoriku:**
    ```bash
-   git clone https://github.com/NAMA-ANDA/NAMA-REPO-ANDA.git
+   git clone https://github.com/madterasu/wordpress-docker.git
    ```
 
 2. **Masuk ke folder project:**
